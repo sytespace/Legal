@@ -10,7 +10,7 @@ Except as otherwise noted in this Privacy Policy, SyteSpace is a data controller
 
 2.2 We may Process: your personal details (e.g., your name); demographic data (e.g., your nationality); your contact details (e.g., your email); records of your consents; purchase details; information about your interactions with our content; and any views or opinions you provide to us.
 
-    We may also Process information about you from your use of our Services (e.g., the type of plan you are using, the amount of ram, etc.), including your interactions with content on the Services.
+   We may also Process information about you from your use of our Services (e.g., the type of plan you are using, the amount of ram, etc.), including your interactions with content on the Services.
 
 2.3 We may Process the following categories of Personal Information about you:
 
@@ -40,7 +40,7 @@ Technical explanation: Cookies are files with small amount of data which may inc
 
 4.2 We use cookies and similar tracking technologies to track the activity on our site/service and hold certain information.
 
-Examples of cookies we use:
+    Examples of cookies we use:
 
 [1] Preference Cookies. Help remember and process the items in your shopping card
 
