@@ -8,7 +8,6 @@ All legal documentation is contained herin.
 README.md - This File
 Privacy Policy.md - Updated Privacy Policy
 TOS.md - Updated Terms Of Service
-
 ```
 ## How to get a copy of the documents
 ### Requirements:
