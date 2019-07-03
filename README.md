@@ -1,4 +1,4 @@
-
+![](https://github.com/sytespace/Branding/raw/master/Logos/Main/favicon.png)
 
 # SyteSpace Legal
 All legal documentation is contained herin. 
