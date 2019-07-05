@@ -35,7 +35,7 @@ All our services include a 14 day refund policy. If the first 14 days have been 
 
 3.3 To provide continuous service, SyteSpace automatically renews all paid subscriptions upon expiration. Such renewals are generally for the same duration as the original subscription term (for example, a 1-month subscription will renew on a monthly basis, a 3-month subscription will renew on a 3-month basis, and so on). By using the Site, you acknowledge that your account will be subject to the above-described automatic renewals.
 
-3.4 Invoices will be issued atleast 3 days prior to payment due. Upon date of payment due the payment would be expected however we allow a 2 day grace period. After such period we will add a late fee of up to $1 per day up to 7 Days where we will then cancel your server with us.
+3.4 Invoices will be issued atleast 3 days prior to payment due. Upon date of payment due the payment would be expected however we allow a 2 day grace period. After such period we will add a late fee of 10% of the total invoice. 
 
 4. Downtime & DDoS
 
