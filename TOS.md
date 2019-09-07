@@ -31,7 +31,7 @@
   3.1 
 Here at SyteSpace we don't offer any type of Refunds.
 
-3.2 Services may be cancelled by the customer at any time, however we do not provide a refund for the remaining time of the billing cycle. A chargeback or dispute of any payment will result in the immediate suspension or termination of your service(s). Your account may also be closed.
+3.2 Services may be cancelled by the customer at any time, however we do not provide a refund for the remaining time of the billing cycle. A chargeback, dispute or hold of any payment will result in the immediate suspension or termination of your service(s). Your account may also be closed.
 
 3.3 To provide continuous service, SyteSpace automatically renews all paid subscriptions upon expiration. Such renewals are generally for the same duration as the original subscription term (for example, a 1-month subscription will renew on a monthly basis, a 3-month subscription will renew on a 3-month basis, and so on). By using the Site, you acknowledge that your account will be subject to the above-described automatic renewals.
 
