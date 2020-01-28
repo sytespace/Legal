@@ -1,21 +1,6 @@
 ![](https://github.com/sytespace/Branding/raw/master/Logos/Main/favicon.png)
 
 # SyteSpace Legal
-All legal documentation is contained herin. 
+All legal documentation has been moved to our own knowledgebase - https://sytespace.co.uk/client/index.php?rp=/knowledgebase/2/Legal
 
-## Contents
-```
-README.md - This File
-Privacy Policy.md - Updated Privacy Policy
-TOS.md - Updated Terms Of Service
-```
-## How to get a copy of the documents
-### Requirements:
-* Terminal
-* Git
-
-```
-git clone https://github.com/sytespace/Legal.git
-cd Legal
-```
 
